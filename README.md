@@ -1,6 +1,4 @@
 # Gun Violence Prediction using Social Media Chatter
-
-# ADS1
 This is a research project on "Gun Violence Prediction using Social Media Chatter" conducted at Rochester Institute of Technology, NY, USA. This research aims to address the critical issue of gun violence through social media.
 
 # Project Overview
