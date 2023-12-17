@@ -9,5 +9,5 @@ Our project utilizes a dataset, titled "Gun Violence Record," which is important
 
 # Code Overview
 This section of the repository contains the primary Jupyter Notebook "ADS1_Preliminary.ipynb", which outlines the preliminary analysis and modeling work for our Gun violence prediction Chatter using Social Media project.
-1. Data Preprocessing: Includes scripts for cleaning annd preprocessing.
+1. Data Preprocessing: Includes scripts for cleaning and preprocessing for certain columns.
 2. Exploratory Data Analysis: Includes visualizations and initial insights derived from the dataset.
